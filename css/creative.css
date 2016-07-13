@@ -65,7 +65,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
+  background-color: #fff;
   font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
